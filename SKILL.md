@@ -22,14 +22,14 @@ Do not invent experimental results, statistics, journal policies, or citations. 
 
 2. Read `references/workflow.md` first for every task. It defines the intake, integrity rules, and output contract.
 
-3. Read only the reference files required by the detected tracks:
+3.  Read `workflow.md` first for every task.
 
-   - `references/data-analysis.md`
-   - `references/literature.md`
-   - `references/manuscript.md`
-   - `references/figures.md`
-   - `references/submission-review.md`
-   - `references/domain-standards.md`
+- `data-analysis.md`
+- `literature.md`
+- `manuscript.md`
+- `figures.md`
+- `submission-review.md`
+- `domain-standards.md`
 
 4. If the task spans multiple tracks, apply them in this order:
 
