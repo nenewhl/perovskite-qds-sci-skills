@@ -1,0 +1,4 @@
+interface:
+  display_name: "PQD Skills"
+  short_description: "Perovskite quantum-dot SCI research workflow"
+  default_prompt: "Use $pqd-skills to process perovskite quantum-dot data, design thesis or SCI figures, and plan the manuscript-to-review workflow."
