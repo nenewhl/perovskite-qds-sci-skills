@@ -1,0 +1,13 @@
+sample_id,source_id,A_site,B_site,X_site,halide_Cl_fraction,halide_Br_fraction,halide_I_fraction,dopant,dopant_fraction,ligand_1,ligand_2,shell_material,matrix_material,synthesis_method,synthesis_temperature_C,reaction_time_min,solvent,antisolvent,purification_cycles,film_thickness_um,measurement_temperature_C,excitation_wavelength_nm,emission_peak_nm,FWHM_nm,PLQY,lifetime_ns,stability_retention_percent
+S001,paper_A,Cs,Pb,Br,0.0,1.0,0.0,none,0.0,OA,OAm,none,none,hot_injection,180,10,ODE,acetone,2,0.8,25,365,520,21,72,58,82
+S002,paper_A,Cs,Pb,Br,0.0,0.8,0.2,none,0.0,OA,OAm,none,PMMA,hot_injection,170,12,ODE,acetone,2,1.2,25,365,535,24,66,61,78
+S003,paper_B,FA,Pb,Br,0.0,1.0,0.0,none,0.0,OA,OAm,SiO2,PMMA,room_temperature,25,30,DMF,toluene,1,1.0,25,365,538,22,81,96,90
+S004,paper_B,FA,Pb,Br,0.0,1.0,0.0,none,0.0,APTES,OA,SiO2,PMMA,room_temperature,25,45,DMF,toluene,1,1.4,25,365,539,23,84,102,93
+S005,paper_C,FA,Pb,Br,0.0,1.0,0.0,Mn,0.02,OA,OAm,ZnS,PMMA,hot_injection,160,15,ODE,ethyl_acetate,2,0.9,25,365,542,25,76,118,91
+S006,paper_C,Cs,Pb,ClBr,0.35,0.65,0.0,none,0.0,DDAB,OA,none,PS,ligand_assisted,80,20,toluene,methyl_acetate,2,0.7,25,365,475,19,58,42,70
+S007,paper_D,Cs,Pb,BrI,0.0,0.55,0.45,none,0.0,OA,OAm,none,PMMA,hot_injection,150,9,ODE,acetone,3,1.1,25,365,610,31,49,50,62
+S008,paper_D,FA,Pb,BrI,0.0,0.7,0.3,none,0.0,OA,OAm,Al2O3,PMMA,in_situ_growth,90,60,DMF,toluene,1,1.6,25,365,585,28,67,88,80
+S009,paper_E,MA,Pb,Br,0.0,1.0,0.0,none,0.0,OA,OAm,none,PVDF,spin_coating,60,30,DMF,chlorobenzene,1,2.0,25,365,530,27,45,38,55
+S010,paper_E,FA,Pb,Br,0.0,1.0,0.0,Yb,0.05,phospholipid,OAm,SiO2,PMMA,hot_injection,140,14,ODE,ethyl_acetate,2,1.3,25,365,540,24,79,110,89
+S011,paper_F,CsFA,Pb,Br,0.0,1.0,0.0,none,0.0,zwitterionic,OA,ZnS,PDMS,ligand_exchange,50,120,toluene,none,1,3.0,25,365,536,21,86,125,95
+S012,paper_F,CsFA,Pb,Br,0.0,0.9,0.1,none,0.0,zwitterionic,OA,ZnS,PDMS,ligand_exchange,50,120,toluene,none,1,3.5,25,365,548,23,83,121,94
